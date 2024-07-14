@@ -57,3 +57,11 @@ This project involves testing a web application for a bookstore that includes us
 4. **Manual Testing:**
     - Follow the test plan in TestPlanDocument.md.
     - Record any bugs found in BugReportDocument.md.
+
+
+### Contact Information
+    For any issues or questions, please contact:
+    Name: Tushar Shinde
+    Email: shindetc.7@gmail.com
+    Phone: 7774871217
+
