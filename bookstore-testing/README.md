@@ -42,7 +42,7 @@ This project involves testing a web application for a bookstore that includes us
 1. **Clone Repository:**
    ```bash
    git clone https://github.com/TusharShinde6/bookstore-testing-web-api.git
-   cd bookstore-testing
+  
    
 
 2. **Install Dependencies:**
@@ -50,7 +50,9 @@ This project involves testing a web application for a bookstore that includes us
 
 3. **Run Automated Tests:**
     - Import the project into your IDE.
-    - Open and run test classes from src/test/java.
+    - Open directory
+      cd bookstore-testing 
+    - run test classes from src/test/java.
     - To run tests from command line using Maven
         mvn clean test
 4. **Manual Testing:**
