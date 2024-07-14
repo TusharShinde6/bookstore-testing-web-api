@@ -41,7 +41,9 @@ This project involves testing a web application for a bookstore that includes us
 ## Setup Instructions
 1. **Clone Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TusharShinde6/bookstore-testing-web-api.git
+   cd bookstore-testing
+   
 
 2. **Install Dependencies:**
     Ensure you have Java, Maven, and your preferred IDE installed.
