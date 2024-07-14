@@ -50,7 +50,7 @@ This project involves testing a web application for a bookstore that includes us
 
 3. **Run Automated Tests:**
     - Import the project into your IDE.
-    - Open directory
+      - Open directory
       cd bookstore-testing 
     - run test classes from src/test/java.
     - To run tests from command line using Maven
