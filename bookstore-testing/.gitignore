@@ -1,0 +1,29 @@
+# Maven target directory
+target/
+
+# IDE-specific files (Eclipse, IntelliJ, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled Java classes
+*.class
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# TestNG output directory
+test-output/
+
+# WebDriver binaries (ChromeDriver, GeckoDriver, etc.)
+drivers/
+
+# Ignore any files with sensitive or personal information
+config.properties
+credentials.json
+
+# Ignore operating system-specific files
+.DS_Store
+Thumbs.db

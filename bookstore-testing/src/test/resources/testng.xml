@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="BookstoreTestSuite" parallel="false">
+    <test name="WebApplicationTests">
+        <classes>
+            <class name="com.bookstore.tests.RegistrationTest"/>
+            <class name="com.bookstore.tests.LoginTest"/>
+            <class name="com.bookstore.tests.UserDashboardTest"/>
+        </classes>
+    </test>
+
+    <test name="APITests">
+        <classes>
+            <class name="com.bookstore.tests.BookManagementAPITest"/>
+        </classes>
+    </test>
+</suite>
